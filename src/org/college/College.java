@@ -15,6 +15,8 @@ public class College extends Dept{
 	public void collegeRank() {
 		// TODO Auto-generated method stub
 		System.out.println("College Rank");
+		System.out.println("College in venkat..");
 	}
 
+	
 }
